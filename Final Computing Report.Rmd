@@ -1,0 +1,14 @@
+---
+title: "Final Project Report"
+author: "Damon Landis"
+date: "5/3/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Final Report
+
+  Our project had the main goal of analyzing the differences between the two programs of R and Mathematica respectively. Aaron, Eli and myself were responsible for the R portion of the project and the data analysis to go along with that portion. Jackson, Josh and Dakota worked on the Mathematica portion of the project and gathered results so that we could compare and contrast the two programs. To begin our project, we first needed to obtain our data. Eli's capstone project was used as our data model. We first gathered that data and ran certain tests, like the T-test and ANOVA, in Excel so that it could be familiar to everyone in the project group. The R group, Aaron, Eli and myself, put together an R Markdown file that contained a series of T-tests, an ANOVA test, and a graph of our data. Jackson, Josh and Dakota began their work in Mathematica after the R group finished. Their work included the same pieces of data as the R Markdown that was made first, the T-tests, the ANOVA and the graph. The tests ran by both programs gave similar results, except for the ANOVA test. Graphing the data in Mathematica proved to be much more difficult than R. We, as a group, concluded that R Markdown is the preferred data analysis tool due to its user friendliness along with the simplicity of putting together graphs and tables. This conclusion may be due to our familiarity with R versus Mathematica, but that does not mean that Mathematica is not a good choice for data analysis. 
